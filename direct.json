@@ -1,0 +1,21 @@
+[
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "protocol": [
+      "bittorrent"
+    ],
+    "process": [
+      "java",
+      "javaw",
+      "TL",
+      "steam",
+      "zerotier-one",
+      "vmware",
+      "steamwebhelper",
+      "steam-runtime-launcher-service"
+    ],
+    "enabled": true,
+    "remarks": "direct"
+  }
+]
