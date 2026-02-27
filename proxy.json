@@ -1,0 +1,19 @@
+[
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "process": [
+      "telegram",
+      "signal",
+      "discord",
+      "update",
+      "updater",
+      "chrome",
+      "brave",
+      "thorium",
+      "firefox"
+    ],
+    "enabled": true,
+    "remarks": "proxy"
+  }
+]
