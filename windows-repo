@@ -1,0 +1,14 @@
+domain:web.whatsapp.com,
+ruleset:geoip-telegram
+ruleset:geosite-youtube
+ruleset:geosite-telegram
+processName:telegram.exe,
+processName:signal.exe,
+processName:discord.exe,
+processName:update.exe,
+processName:updater.exe,
+processName:chrome.exe,
+processName:brave.exe,
+processName:thorium.exe,
+processName:msedge.exe,
+processName:firefox.exe
