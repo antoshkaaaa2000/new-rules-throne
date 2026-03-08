@@ -1,4 +1,4 @@
-domain:web.whatsapp.com,
+domain:web.whatsapp.com
 ruleset:geoip-telegram
 ruleset:geosite-youtube
 ruleset:geosite-telegram
