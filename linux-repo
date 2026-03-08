@@ -1,0 +1,16 @@
+domain:dl.flathub.org
+domain:web.whatsapp.com
+ruleset:geoip-telegram
+ruleset:geosite-youtube
+ruleset:geosite-telegram
+processName:Telegram
+processName:signal
+processName:Discord
+processName:updater
+processName:chrome
+processName:brave
+processName:thorium
+processName:firefox
+processName:dnf5
+processName:gnome-terminal-server
+processName:bash
