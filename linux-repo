@@ -3,6 +3,8 @@ domain:web.whatsapp.com
 ruleset:geoip-telegram
 ruleset:geosite-youtube
 ruleset:geosite-telegram
+ruleset:geosite-signal
+ruleset:geosite-whatsapp
 processName:Telegram
 processName:signal
 processName:Discord
