@@ -2,6 +2,8 @@ domain:web.whatsapp.com
 ruleset:geoip-telegram
 ruleset:geosite-youtube
 ruleset:geosite-telegram
+ruleset:geosite-signal
+ruleset:geosite-whatsapp
 processName:telegram.exe,
 processName:signal.exe,
 processName:discord.exe,
